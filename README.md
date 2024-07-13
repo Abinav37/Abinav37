@@ -34,7 +34,7 @@ I'm Abinav, a passionate programmer with a strong interest in software developme
 
 ### Projects
 
-- - **COVID Vaccine Analysis**: Analyzed COVID-19 vaccination data using Python and various data analysis libraries like Pandas and Matplotlib. The project includes data cleaning, visualization, and insightful analysis reports. [GitHub Repository](https://github.com/yourusername/covid-vaccine-analysis)
+- **COVID Vaccine Analysis**: Analyzed COVID-19 vaccination data using Python and various data analysis libraries like Pandas and Matplotlib. The project includes data cleaning, visualization, and insightful analysis reports. [GitHub Repository](https://github.com/Abinav37/DAC_Phase5)
 - **Sales Management Database**: Created a comprehensive sales management system using MySQL. The system includes functionalities for managing products, sales, customers, and generating sales reports. [GitHub Repository](https://github.com/yourusername/sales-management-database)
 
 ## GitHub Stats
