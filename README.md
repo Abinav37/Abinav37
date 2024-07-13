@@ -34,8 +34,7 @@ I'm Abinav, a passionate programmer with a strong interest in software developme
 
 ### Projects
 
-- **Basic Full Stack Developer Project**: Developed a full stack web application using React, Node.js, Express, and MongoDB. The application allows users to register, log in, and manage their profiles. [GitHub Repository](https://github.com/yourusername/full-stack-project)
-- **COVID Vaccine Analysis**: Analyzed COVID-19 vaccination data using Python and various data analysis libraries like Pandas and Matplotlib. The project includes data cleaning, visualization, and insightful analysis reports. [GitHub Repository](https://github.com/yourusername/covid-vaccine-analysis)
+- - **COVID Vaccine Analysis**: Analyzed COVID-19 vaccination data using Python and various data analysis libraries like Pandas and Matplotlib. The project includes data cleaning, visualization, and insightful analysis reports. [GitHub Repository](https://github.com/yourusername/covid-vaccine-analysis)
 - **Sales Management Database**: Created a comprehensive sales management system using MySQL. The system includes functionalities for managing products, sales, customers, and generating sales reports. [GitHub Repository](https://github.com/yourusername/sales-management-database)
 
 ## GitHub Stats
@@ -45,12 +44,6 @@ I'm Abinav, a passionate programmer with a strong interest in software developme
 ## Contribution Graph
 
 ![Abinav's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Abinav37&theme=github)
-
-## Achievements & Certifications
-
-- **Certification Name** - Issued by Organization, Year
-- **Certification Name** - Issued by Organization, Year
-- **Certification Name** - Issued by Organization, Year
 
 ## Education
 
