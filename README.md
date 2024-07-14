@@ -43,8 +43,7 @@ I'm Abinav, a passionate programmer with a strong interest in software developme
 
 ## Contribution Graph
 
-![Abinav's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Abinav37&theme=github)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abinav37&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Education
 
 - **Studying** Bachelor of Technology in Information Technology - Anna University, Year - 2025
