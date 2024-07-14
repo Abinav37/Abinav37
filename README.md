@@ -11,7 +11,7 @@ I'm Abinav, a passionate programmer with a strong interest in software developme
 
 ## Contact Me
 
-Feel free to reach out to me for collaboration or any queries:
+Feel free to reach out to me :
 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tabinav37@gmail.com)
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theabinav/)
