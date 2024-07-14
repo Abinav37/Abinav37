@@ -4,6 +4,17 @@
 
 I'm Abinav, a passionate programmer with a strong interest in software development and data structures & algorithms. I enjoy solving complex problems and learning new technologies. Currently, I'm working on various projects that challenge my skills and help me grow as a developer.
 
+## Education
+
+- **Studying** Bachelor of Technology in Information Technology - Anna University, Year - 2025
+- High School - Erode Hindu Kalvi Nilayam - Matric HS School, Year - 2021
+
+## Contact Me
+
+Feel free to reach out to me for collaboration or any queries:
+
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tabinav37@gmail.com)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theabinav/)
 
 ## Skills
 
@@ -44,14 +55,3 @@ I'm Abinav, a passionate programmer with a strong interest in software developme
 ## Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abinav37&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## Education
-
-- **Studying** Bachelor of Technology in Information Technology - Anna University, Year - 2025
-- High School - Erode Hindu Kalvi Nilayam - Matric HS School, Year - 2021
-
-## Contact Me
-
-Feel free to reach out to me for collaboration or any queries:
-
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tabinav37@gmail.com)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theabinav/)
