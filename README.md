@@ -30,7 +30,6 @@ Feel free to reach out to me :
 ### Intermediate Level
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 ### Tools I Have Used
 
@@ -43,8 +42,8 @@ Feel free to reach out to me :
 
 ### Projects
 
-- **COVID Vaccine Analysis**: Analyzed COVID-19 vaccination data using Python and various data analysis libraries like Pandas and Matplotlib. The project includes data cleaning, visualization, and insightful analysis reports. [GitHub Repository](https://github.com/Abinav37/DAC_Phase5)
-- ***Currently Working in Sales Management Database***: Created a comprehensive sales management system using MySQL. The system includes functionalities for managing products, sales, customers, and generating sales reports. [GitHub Repository](https://github.com/yourusername/sales-management-database)
+- ***Microcredit Loan Approval System***: Developing a microcredit application using AI to automate loan approvals for salaried individuals. The project uses a ReactJS frontend, Java Spring Boot for backend, and MySQL for the database. The system includes credit checks, customer validation, and loan approvals based on defined criteria
+- ***Sales Management Database***: Currently working on creating a comprehensive sales management system integrated with Hibernate. The system manages products, sales, and customers while generating sales reports for business insights[GitHub Repository](https://github.com/yourusername/sales-management-database)
 
 ## GitHub Stats
 
